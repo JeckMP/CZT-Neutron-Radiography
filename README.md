@@ -74,22 +74,19 @@ Resolution (%) = 100 × FWHM / Epeak
 
 ## Citation
 
-If this software contributes to your work, please cite:
+If this software is used in academic work, please cite:
 
 Laguda, E.
 
-*CZT Detector Development for Neutron Radiography and Spectroscopy.*
+*Development of a CZT-Based Neutron Imaging Detector for Neutron Radiography and Tomography.*
 
-Ph.D. Dissertation, McMaster University.
+Ph.D. Thesis, McMaster University, 2026.
 
-## License
+### Research Supervision
 
-MIT License
+This work was conducted under the supervision of:
 
-## Author
+- Dr. Soo Hyun Byun, McMaster University
+- Dr. Troy Farncombe, McMaster University
 
-Edcer Laguda  
-Ph.D. Candidate  
-Department of Physics & Astronomy  
-McMaster University  
-Hamilton, Ontario, Canada# CZT-Neutron-Radiography
+The author gratefully acknowledges the guidance, mentorship, and support provided by Dr. Byun and Dr. Farncombe throughout the development of this research and the associated simulation framework.
